@@ -1,0 +1,22 @@
+.top-left{
+    float: left;
+}
+
+.icon-left{
+    float: left;
+}
+
+.image-left{
+    float: left;
+}
+
+header{
+    width: 98%;
+    padding: 0.75rem 1.25rem;
+
+    .image-left{
+        width: 100%;
+        max-width: 80px;
+        margin-left: 1rem;
+    }
+}
